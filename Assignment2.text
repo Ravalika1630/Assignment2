@@ -232,7 +232,7 @@ PLOT OF GIVEN LINES -
 \begin{figure}[ht!]
 Plot of \eqref{1.0.2} -
 \centering
-\includegraphics[width=\columnwidth]{INTERSECTING_LINES.png}
+\includegraphics[width=\columnwidth]{INTERSECTS-LINES.png}
 \caption{INTERSECTING-LINES}
 \label{fig:INTERSECTING LINES.}
 \end{figure} 
